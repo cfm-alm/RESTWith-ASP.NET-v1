@@ -1,0 +1,6 @@
+@RestwithASPNETUdemy_HostAddress = http://localhost:5083
+
+GET {{RestwithASPNETUdemy_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
