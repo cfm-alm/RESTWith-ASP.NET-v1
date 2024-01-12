@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ceeha\\OneDrive\\Documentos\\RESTWith-ASP.NET-v1\\RESTWith-ASP.NET-v1\\RestWithASPNETUdemy\\RestwithASPNETUdemy\\RestwithASPNETUdemy.csproj": {}
+    "C:\\Users\\ceeha\\OneDrive\\Documentos\\RESTWith-ASP.NET-v1\\RESTWith-ASP.NET-v1\\RestwithASPNETUdemy\\RestwithASPNETUdemy\\RestwithASPNETUdemy.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ceeha\\OneDrive\\Documentos\\RESTWith-ASP.NET-v1\\RESTWith-ASP.NET-v1\\RestWithASPNETUdemy\\RestwithASPNETUdemy\\RestwithASPNETUdemy.csproj": {
+    "C:\\Users\\ceeha\\OneDrive\\Documentos\\RESTWith-ASP.NET-v1\\RESTWith-ASP.NET-v1\\RestwithASPNETUdemy\\RestwithASPNETUdemy\\RestwithASPNETUdemy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ceeha\\OneDrive\\Documentos\\RESTWith-ASP.NET-v1\\RESTWith-ASP.NET-v1\\RestWithASPNETUdemy\\RestwithASPNETUdemy\\RestwithASPNETUdemy.csproj",
+        "projectUniqueName": "C:\\Users\\ceeha\\OneDrive\\Documentos\\RESTWith-ASP.NET-v1\\RESTWith-ASP.NET-v1\\RestwithASPNETUdemy\\RestwithASPNETUdemy\\RestwithASPNETUdemy.csproj",
         "projectName": "RestwithASPNETUdemy",
-        "projectPath": "C:\\Users\\ceeha\\OneDrive\\Documentos\\RESTWith-ASP.NET-v1\\RESTWith-ASP.NET-v1\\RestWithASPNETUdemy\\RestwithASPNETUdemy\\RestwithASPNETUdemy.csproj",
+        "projectPath": "C:\\Users\\ceeha\\OneDrive\\Documentos\\RESTWith-ASP.NET-v1\\RESTWith-ASP.NET-v1\\RestwithASPNETUdemy\\RestwithASPNETUdemy\\RestwithASPNETUdemy.csproj",
         "packagesPath": "C:\\Users\\ceeha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ceeha\\OneDrive\\Documentos\\RESTWith-ASP.NET-v1\\RESTWith-ASP.NET-v1\\RestWithASPNETUdemy\\RestwithASPNETUdemy\\obj\\",
+        "outputPath": "C:\\Users\\ceeha\\OneDrive\\Documentos\\RESTWith-ASP.NET-v1\\RESTWith-ASP.NET-v1\\RestwithASPNETUdemy\\RestwithASPNETUdemy\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
