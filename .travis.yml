@@ -2,10 +2,10 @@ sudo: required
 dist: bionic
 language: csharp
 mono: none
-dotnet: 8.0
+dotnet: git8.0
 services: docker
 before_install:
-  - cd 19_RestwithASPNETUdemy_AddingDockerSupport
+  - cd 19_RestwithASPNETUdemy_AddingDockerSupport/RestWithASPNETUdemy/
   - echo "We are in the right folder"
 script:
   - docker-compose build
